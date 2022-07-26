@@ -1,0 +1,9 @@
+27102551236,isla.pez.arbol
+27102551236,sol.monte.valle
+27102551236,pata.balde.papa
+20311573951,casa.patio.globo
+20311573951,hormiga.lija.crema
+20311573951,lobo.luna.pasto
+23044303094,uva.sandalia.halcon
+23044303094,locro.pasta.huevo
+23044303094,taza.plato.mesa

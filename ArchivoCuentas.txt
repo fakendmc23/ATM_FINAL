@@ -1,0 +1,9 @@
+01,casa.patio.globo,10000.0
+02,hormiga.lija.crema,10000.0,5000
+01,isla.pez.arbol,10000.0
+03,lobo.luna.pasto,100.0
+02,locro.pasta.huevo,10000.0,5000
+03,pata.balde.papa,200.0
+02,sol.monte.valle,10000,5000
+03,taza.plato.mesa,100.0
+01,uva.sandalia.halcon,10000.0
